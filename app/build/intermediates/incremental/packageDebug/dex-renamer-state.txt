@@ -1,0 +1,4 @@
+#Wed Apr 12 04:31:58 IST 2017
+base.0=C\:\\Users\\PRIYANKA\\AndroidStudioProjects\\Alert\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\PRIYANKA\\AndroidStudioProjects\\Alert\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
